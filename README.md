@@ -1,4 +1,4 @@
-### Hi there 👋
+### Thanks for visiting my repository.
 
 <!--
 **jbomitchell/jbomitchell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 I am an academic in computational chemistry at the University of St Andrews.
 
 I am interested in anything computational and related to molecules. Chemoinformatics, bioinformatics, quantum chemistry.
+
+📫 How to reach me: jbom [AT] st-andrews.ac.uk
